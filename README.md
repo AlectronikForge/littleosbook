@@ -1,5 +1,7 @@
 # littleosbook
 
+-- Changes coming soon! --
+
 This is the source code for the book "The little book about OS development".
 The source for the book is written in
 ["Pandoc"](http://johnmacfarlane.net/pandoc/) Markdown.
